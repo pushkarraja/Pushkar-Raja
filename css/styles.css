@@ -1,0 +1,96 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #100F0F;
+}
+
+h1 {
+  font-size: 5.6rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #f1f1f1;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  color: #eaffd0;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #a5c9ca;
+}
+
+a {
+  color: #11999e;
+  line-height: 2;
+}
+
+p {
+  color: #f7eddb;
+}
+
+hr {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e2dcc8;
+  border-width: 10px;
+  width: 5%;
+}
+
+.head-h2 {
+  font-size: 2.5rem;
+  font-weight: normal;
+  font-family: "Montserrat", sans-serif;
+  color: #a5c9ca;
+}
+
+.top-container {
+  position: relative;
+}
+
+.bottom-container {
+  margin: 20px;
+}
+
+.skill-row {
+  line-height: 2;
+}
+
+.head-img {
+  border-radius: 10%;
+  width: 25rem;
+}
+
+.skills-img {
+  width: 25rem;
+  border-radius: 10%;
+}
+
+.skills-img-in {
+  clear: both;
+  width: 12.5rem;
+  border-radius: 10%;
+}
+
+.footer-img {
+  width: 25rem;
+  border-radius: 10%;
+}
+
+.footer-logo {
+  width: 2rem;
+}
+
+.footer {
+  width: auto;
+}
+
+span + span {
+  margin-left: 2rem;
+}
