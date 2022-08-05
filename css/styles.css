@@ -78,6 +78,9 @@ hr {
   width: 2rem;
 }
 
+.footer-link {
+  text-decoration: none;
+}
 span + span {
   margin-left: 2rem;
 }
